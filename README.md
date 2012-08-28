@@ -4,9 +4,8 @@ Homepage on Github
 
 Created using [Bootstrap](https://github.com/twitter/bootstrap) and [Kickstap RC 0.9.1](http://ajkochanowicz.github.com/Kickstrap/)
 
-CSS Button using [Google+ Buttons](https://github.com/star2dev/Google-plus-buttons)
-
 **Work-In-Progress as of 24th July, 2012.**
+First Update - 29th August, 2012.
 
 
 Test Drive my page on:
@@ -18,7 +17,7 @@ for any queries, contact:
 Blog & Website:
 ---------------
 
-Read more detailed announcements, discussions, and more on
+Read more detailed announcements, discussions, and more on:
 
 + [My Blog](http://realzahed.blogspot.com)
 + [about.me](http://about.me/zahed)

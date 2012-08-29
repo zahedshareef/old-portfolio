@@ -94,7 +94,7 @@ hr.soften {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
-  background: #020031; /* Old browsers */
+  background: #22702C; /* Old browsers */
   background: -moz-linear-gradient(45deg,  #196319 0%,  #4ead8a 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#196319), color-stop(100%,#4ead8a)); /* Chrome,Safari4+ */
   background: -webkit-linear-gradient(45deg,  #196319 0%,#4ead8a 100%); /* Chrome10+,Safari5.1+ */

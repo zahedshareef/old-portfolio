@@ -8,25 +8,24 @@ Created using [Bootstrap](https://github.com/twitter/bootstrap) and [Kickstap RC
 
 First Update - 29th August, 2012.
 
+Added gh-pages - 3rd November, 2014
 
 Test Drive my page on:
-http://realzahed.github.com
+http://zahedshareef.github.io/old-portfolio
 
-for any queries, contact:
-`zahed@notsharingmy.info`
 
 Blog & Website:
 ---------------
 
 Read more detailed announcements, discussions, and more on:
 
-+ [My Blog](http://realzahed.blogspot.com)
++ [My Website](http://zahedshareef.com)
 + [about.me](http://about.me/zahed)
 
 LICENSE:
 -------
 
-Copyright 2012 Zahed.
+Copyright 2014 Zahed.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
